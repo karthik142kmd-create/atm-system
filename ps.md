@@ -1,4 +1,4 @@
-Aim
+Aim:
 To develop the problem statement for the Online ATM System.
 
 Problem Statement
